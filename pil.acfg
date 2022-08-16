@@ -1,6 +1,4 @@
-#ALARM 0.1
+#MPG123 
 prstarter=default
-appname=alarm
-prexe=alarm
-# Special variables for 0.8.0
-executeonstart=true
+appname=mpg123
+prexe=starter
